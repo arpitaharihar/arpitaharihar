@@ -54,7 +54,6 @@ Transforming complex datasets into meaningful business insights & solving proble
 
 ## 🤝 Let's Connect!
 
-I am actively seeking opportunities in **Data Analysis, Data Engineering, and Technical Software Roles**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpita-harihar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitaharihar)
