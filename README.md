@@ -1,18 +1,23 @@
 <div align="center">
 
 # Hi 👋, I'm Arpita Harihar
-###  Data Analyst 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpita-harihar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitaharihar)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitaharihar@gmail.com)
+**Aspiring Data Analyst • B.Tech CSE • Data Analytics Enthusiast**
+
+Transforming complex datasets into meaningful business insights & solving problems using modern technologies.
 
 ---
 
 </div>
 
-## 📌 Executive Summary
-Detail-oriented **Computer Science & Engineering (B.Tech)** student and **Aspiring Data Analyst**. Skilled in transforming complex datasets into meaningful insights using **Python, MySQL, Power BI, and Excel**. Passionate about solving complex problem sets through **Data Structures & Algorithms (DSA) in C++** and building clean web interfaces with **HTML & CSS**.
+## About Me
+
+* 💻 **B.Tech CSE Student & Aspiring Data Analyst** from India 🇮🇳
+* 📊 **Currently building** interactive Power BI dashboards & data analytics workflows
+* 🧠 **Learning & Practicing** **Advanced DSA** in **C++**, **MySQL**, and **Python**
+* ⚡ **Passionate about** data-driven decision making, pattern discovery, and clean queries
+* 🌐 **Interested in** building responsive web components with **HTML** & **CSS**
+* 🚀 **Always learning** new tools, algorithms, and data engineering best practices
 
 ---
 
@@ -28,6 +33,7 @@ Detail-oriented **Computer Science & Engineering (B.Tech)** student and **Aspiri
 ---
 
 ## ⚡ Problem Solving & DSA Highlights
+
 - 🧩 **Primary Language:** **C++** for algorithm design, time efficiency, and memory optimization.
 - 🎯 **Topics Mastered:** Arrays, Strings, Searching & Sorting, Recursion, Hashing, Stacks, Queues, and Trees.
 - ⏱️ **Focus:** Writing clean code, optimizing time and space complexity, and solving algorithmic challenges.
@@ -47,7 +53,12 @@ Detail-oriented **Computer Science & Engineering (B.Tech)** student and **Aspiri
 ---
 
 ## 🤝 Let's Connect!
+
 I am actively seeking opportunities in **Data Analysis, Data Engineering, and Technical Software Roles**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpita-harihar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitaharihar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitaharihar@gmail.com)
 
 - 💼 **LinkedIn:** [Arpita Harihar](https://linkedin.com/in/arpita-harihar)
 - 📧 **Email:** arpitaharihar@gmail.com
